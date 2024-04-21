@@ -94,13 +94,23 @@
                 <div class="py-0 navbar-nav ms-auto">
                     <a href="{{ route('home') }}" class="nav-item nav-link {{ Request::routeIs('home')? 'active': '' }}">Home</a>
                     <a href="{{ route('about') }}" class="nav-item nav-link {{ Request::routeIs('about')? 'active': '' }}">About</a>
-                    <a href="{{ route('services') }}" class="nav-item nav-link {{ Request::routeIs('services')? 'active': '' }}">Services</a>
+
+                    <div class="nav-item dropdown">
+                        <a href="{{ route('services') }}" class="nav-link dropdown-toggle {{ Request::routeIs(['services'])? 'active': '' }}" data-bs-toggle="dropdown">Services</a>
+                        <div class="m-0 dropdown-menu">
+                            <a href="{{ route('services') }}" class="dropdown-item">Our services</a>
+                            <a href="{{ route('services') }}" class="dropdown-item">Web Development</a>
+                            <a href="{{ route('services') }}" class="dropdown-item">App Development</a>
+                            <a href="{{ route('services') }}" class="dropdown-item">Graphic Design</a>
+                            <a href="{{ route('services') }}" class="dropdown-item">Domain Reg & Hosting</a>
+                        </div>
+                    </div>
 
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle {{ Request::routeIs(['blog'])? 'active': '' }}" data-bs-toggle="dropdown">Blog</a>
                         <div class="m-0 dropdown-menu">
-                            <a href="{{ route('blog') }}" class="dropdown-item">Blog Grid</a>
-                            <a href="{{ route('blog') }}" class="dropdown-item">Blog Detail</a>
+                            <a href="{{ route('blog') }}" class="dropdown-item">Blog</a>
+                            <a href="{{ route('blog') }}" class="dropdown-item">Blog</a>
                         </div>
                     </div>
 
