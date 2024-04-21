@@ -60,9 +60,8 @@
                         <small class="text-uppercase">For Large Size Business</small>
                     </div>
                     <div class="p-5 pt-0">
-                        <h1 class="mb-3 display-5">
-                            <small class="align-top" style="font-size: 22px; line-height: 45px;">₦</small>Custom
-                            <small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Project</small>
+                        <h1 class="mb-3 display-6">
+                            Custom Pricing
                         </h1>
                         <div class="mb-3 d-flex justify-content-between"><span>HTML5 & CSS3</span><i class="pt-1 fa fa-check text-primary"></i></div>
                         <div class="mb-3 d-flex justify-content-between"><span>Bootstrap or TailwindCSS</span><i class="pt-1 fa fa-check text-primary"></i></div>
