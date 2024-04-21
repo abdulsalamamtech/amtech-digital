@@ -12,13 +12,12 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="overflow-hidden rounded team-item bg-light">
                     <div class="overflow-hidden team-img position-relative">
-                        <img class="img-fluid w-100" src="https://github.com/abdulsalamamtech/abdulsalamamtech/raw/main/img/imd-first.jpg.jpg" alt="">
-                        {{-- <img class="img-fluid w-100" src="img/team-1.jpg" alt=""> --}}
+                        <img class="img-fluid w-100" src="team/abdulsalam-amtech-4-5.png" alt="Abdulsalam Abdulrahman | abdulsalamamtech">
                         <div class="team-social">
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https://www.twitter.com/abdulsalamtech"><i class="fab fa-twitter fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https://www.facebook.com/abdulsalamamtech"><i class="fab fa-facebook-f fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https://www.github.com/abdulsalamamtech"><i class="fab fa-github fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https://www.linkedin.com/in/abdulsalamamtech"><i class="fab fa-linkedin-in fw-normal"></i></a>
                         </div>
                     </div>
                     <div class="py-4 text-center">
@@ -30,35 +29,34 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                 <div class="overflow-hidden rounded team-item bg-light">
                     <div class="overflow-hidden team-img position-relative">
-                        {{-- <img class="img-fluid w-100" src="img/team-2.jpg" alt=""> --}}
-                        <img class="img-fluid w-100" src="img/team-2.jpg" alt="">
+                        <img class="img-fluid w-100" src="team/salma-gambo-smiling-4-5.png" alt="Salma Gambo | capitanalserdel">
                         <div class="team-social">
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https://twitter.com/CapitanaSerdel"><i class="fab fa-twitter fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https://www.facebook.com/Capitanaserdel/"><i class="fab fa-facebook-f fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https://github.com/capitanaserdel"><i class="fab fa-github fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https://www.linkedin.com/in/salma-gambo-034683185/"><i class="fab fa-linkedin-in fw-normal"></i></a>
                         </div>
                     </div>
                     <div class="py-4 text-center">
-                        <h4 class="text-primary">Full Name</h4>
-                        <p class="m-0 text-uppercase">Designation</p>
+                        <h4 class="text-primary">Salma Gambo</h4>
+                        <p class="m-0 text-uppercase">App Developer</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                 <div class="overflow-hidden rounded team-item bg-light">
                     <div class="overflow-hidden team-img position-relative">
-                        {{-- <img class="img-fluid w-100" src="img/team-3.jpg" alt=""> --}}
-                        <img class="img-fluid w-100" src="https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-1/343092675_936591370916301_2597571957220633702_n.jpg?stp=c0.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF_uyN0eO7r9IrNwM34GZ6dWzJD42FufdpbMkPjYW592gTQMvMRCExdhdRVBunvOwRKw0RR9dfgWqOm1StRBh2H&_nc_ohc=e1CLjHAYVbwAb6FCrA8&_nc_ht=scontent-los2-1.xx&oh=00_AfCTT4NqH_ESrKXSbfoOODBxEXrLeuyirD8F9f4T_PuLcQ&oe=66270608" alt="">
+                        <img class="img-fluid w-100" src="/team/muhammad-lawal-4-5.png" alt="Muhammad Lawal | Amir Graphics">
                         <div class="team-social">
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https:wa.me/2348139716979"><i class="fab fa-whatsapp fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https://www.facebook.com/muhammad.lawanrabiu.7"><i class="fab fa-facebook-f fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="mailto:muhdlawan22@gmail.com"><i class="fa fa-envelope fw-normal"></i></a>
+                            <a class="rounded btn btn-lg btn-primary btn-lg-square" href="https://www.linkedin.com/in/muhammad-lawan-2a02b2183/"><i class="fab fa-linkedin-in fw-normal"></i></a>
                         </div>
                     </div>
                     <div class="py-4 text-center">
-                        <h4 class="text-primary">Muhammad Lawal</h4>
+                        <h4 class="text-primary">Muhammad Lawal
+                        </h4>
                         <p class="m-0 text-uppercase">Graphics Designer</p>
                     </div>
                 </div>
