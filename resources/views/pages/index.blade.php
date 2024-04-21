@@ -86,10 +86,6 @@
     </div>
     <!-- Facts Start -->
 
-    @php
-        $all_route = Route::getRoutes();
-        var_dump($all_route);
-    @endphp
 
     <!-- About Start -->
     @include('pages.partials.about')
